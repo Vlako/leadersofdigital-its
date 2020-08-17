@@ -1,0 +1,24 @@
+item {
+  id: 1
+  name: 'staphylococcus_aureus'
+}
+item {
+  id: 2
+  name: 'staphylococcus_epidermidis'
+}
+item {
+  id: 3
+  name: 'ent_cloacae'
+}
+item {
+  id: 4
+  name: 'c_kefir'
+}
+item {
+  id: 5
+  name: 'moraxella_catarrhalis'
+}
+item {
+  id: 6
+  name: 'klebsiella_pneumoniae'
+}
